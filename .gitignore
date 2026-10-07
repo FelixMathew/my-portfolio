@@ -11,16 +11,16 @@ admin.css
 admin.js
 
 # Loose root-level photos (uploaded via CMS, kept in assets/ instead)
-1.png
-2.png
-3.png
-photo_1_2026-10-07_12-45-40.jpg
-photo_2_2026-10-07_12-45-40.jpg
-photo_3_2026-10-07_12-45-40.jpg
+/1.png
+/2.png
+/3.png
+/photo_1_2026-10-07_12-45-40.jpg
+/photo_2_2026-10-07_12-45-40.jpg
+/photo_3_2026-10-07_12-45-40.jpg
 
 # Old/unused CSS files
-sri_1.css
-sri_2.css
+/sri_1.css
+/sri_2.css
 
 # OS / editor
 .DS_Store
