@@ -1,0 +1,719 @@
+{
+  "identity": {
+    "name": "Felix Mathew",
+    "kicker": "Cloud Computing · Full-Stack Development · AI/ML",
+    "location": "Chennai, India",
+    "highlightedText": "building end-to-end ML and web systems",
+    "bioParagraphs": [
+      "Computer Science undergraduate with strong analytical and first-principles problem-solving skills, blending machine learning, data-driven modelling, and full-stack development.",
+      "Pursuing B.Tech in CSE (Cloud Computing) at SRM Institute of Technology (CGPA: 8.4 / 10 till 6th semester). Proficient in Python, SQL, and cloud technologies, with hands-on experience building end-to-end ML and web systems in Agile environments.",
+      "Quick to learn new domains, translate data into actionable insights, and collaborate across cross-functional teams."
+    ],
+    "availabilityNote": "Currently building, learning, and open to software opportunities.",
+    "profileImage": "assets/felix-mathew.jpeg",
+    "profileTitle": "Felix Mathew",
+    "profileSubtitle": "Software & cloud builder!",
+    "resumePdf": "assets/felix-mathew-resume.pdf",
+    "resumeDownloadFilename": "Felix_Mathew_Resume.pdf"
+  },
+  "socials": [
+    {
+      "platform": "github",
+      "label": "GitHub",
+      "url": "https://github.com/FelixMathew"
+    },
+    {
+      "platform": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/felixmathew07"
+    },
+    {
+      "platform": "x",
+      "label": "X (Twitter)",
+      "url": "https://x.com/felixmathew07"
+    },
+    {
+      "platform": "email",
+      "label": "Email",
+      "url": "mailto:felixsparrow561@gmail.com"
+    },
+    {
+      "platform": "linktree",
+      "label": "Linktree",
+      "url": "https://linktr.ee/felixmat007"
+    }
+  ],
+  "experience": [
+    {
+      "id": "zidio-development",
+      "role": "Web Developer Intern",
+      "company": "Zidio Development",
+      "date": "Jun 2025 – Jul 2025",
+      "location": "Remote (India)",
+      "tag": "Web Dev",
+      "tagClass": "tag-web",
+      "bullets": [
+        "Engineered responsive, production-grade web applications using React.js, JavaScript, Node.js, and Express.js, contributing across design, implementation, and testing in an Agile workflow.",
+        "Architected modular, reusable frontend and backend components that improved code organization and laid the groundwork for application scalability.",
+        "Extended application functionality by integrating third-party APIs and backend services, streamlining key user workflows."
+      ],
+      "projects": [
+        {
+          "id": "zidio-modular-apps",
+          "name": "Modular Web Applications",
+          "sub": "· Agile Component & Backend Engineering",
+          "tag": "Web Dev",
+          "tagClass": "tag-web",
+          "meta": "Jun 2025 – Jul 2025",
+          "bullets": [
+            "Engineered responsive, production-grade web applications using React.js, JavaScript, Node.js, and Express.js, contributing across design, implementation, and testing in an Agile workflow.",
+            "Architected modular, reusable frontend and backend components that improved code organization and laid the groundwork for application scalability.",
+            "Extended application functionality by integrating third-party APIs and backend services, streamlining key user workflows."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "el-revgen-healthcare-solutions-pvt-ltd-",
+      "role": "Marketing Executive",
+      "company": "El RevGen Healthcare Solutions Pvt. Ltd.",
+      "date": "Feb 2024 – Jan 2025",
+      "location": "Chennai, India",
+      "tag": "Healthcare Operations",
+      "tagClass": "tag-health",
+      "bullets": [
+        "Drove digital marketing and client engagement initiatives for healthcare services, managing outreach and lead generation.",
+        "Executed data tracking and performance-reporting campaigns that informed and enabled data-driven decision-making.",
+        "Partnered with cross-functional teams to maintain accurate documentation and ensure compliant, on-time execution."
+      ],
+      "projects": [
+        {
+          "id": "healthcare-digital-operations",
+          "name": "Healthcare Digital Operations",
+          "sub": "· Data Tracking & Outreach",
+          "tag": "Healthcare",
+          "tagClass": "tag-health",
+          "meta": "Feb 2024 – Jan 2025",
+          "bullets": [
+            "Drove digital marketing and client engagement initiatives for healthcare services, managing outreach and lead generation.",
+            "Executed data tracking and performance-reporting campaigns that informed and enabled data-driven decision-making.",
+            "Partnered with cross-functional teams to maintain accurate documentation and ensure compliant, on-time execution."
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredProjects": [
+    {
+      "id": "disaster-ai-solutions",
+      "title": "DisasterAI – Disaster Detection System (API)",
+      "sub": "",
+      "date": "Jan 2026 – Apr 2026",
+      "tag": "AI / Vision",
+      "tagClass": "tag-ai",
+      "meta": "",
+      "githubUrl": "https://github.com/FelixMathew/disaster-ai-solutions",
+      "liveUrl": "https://disaster-ai-solutions.vercel.app",
+      "bullets": [
+        "Architected and trained an end-to-end computer vision and ML classification pipeline to detect disaster scenarios (SAFE/DAMAGE) from live video feeds and satellite imagery.",
+        "Built high-performance, low-latency asynchronous inference endpoints using <strong>FastAPI</strong>, processing image preprocessing (normalization, resizing) and batch predictions in under <strong>120ms</strong>.",
+        "Engineered robust feature extraction workflows using <strong>OpenCV, Scikit-learn, and PyTorch</strong>, accelerating model training convergence and precision across multi-class damage assessments.",
+        "Integrated early warning alert webhooks and an interactive monitoring dashboard for emergency response teams."
+      ]
+    },
+    {
+      "id": "heart-disease-classification",
+      "title": "Heart Disease Classification System",
+      "sub": "",
+      "date": "Feb 2025 – Apr 2025",
+      "tag": "Machine Learning",
+      "tagClass": "tag-health",
+      "meta": "",
+      "githubUrl": "https://github.com/FelixMathew/AI-powered-heart-failure-risk-prediction",
+      "liveUrl": "https://github.com/FelixMathew/AI-powered-heart-failure-risk-prediction",
+      "bullets": [
+        "Developed a clinical Machine Learning classification system analyzing 14+ physiological patient features to predict cardiovascular risk with <strong>88%+ diagnostic accuracy</strong>.",
+        "Engineered comprehensive data preprocessing pipelines including outlier detection, missing-value imputation, MinMax feature scaling, and correlation matrix analysis using <strong>Pandas and NumPy</strong>.",
+        "Benchmarked and tuned multiple supervised learning algorithms (<strong>Random Forest, Logistic Regression, XGBoost, and SVM</strong>) with Hyperparameter GridSearchCV optimization.",
+        "Generated ROC-AUC curves, confusion matrices, and feature importance rankings to provide transparent, interpretable diagnostic metrics for healthcare practitioners."
+      ]
+    },
+    {
+      "id": "movie-ticket-booking-system",
+      "title": "Movie Ticket Booking System (MERN Stack)",
+      "sub": "",
+      "date": "Jul 2025 – Nov 2025",
+      "tag": "Full Stack",
+      "tagClass": "tag-fullstack",
+      "meta": "",
+      "githubUrl": "https://github.com/FelixMathew/movie-ticket-booker",
+      "liveUrl": "https://github.com/FelixMathew/movie-ticket-booker",
+      "bullets": [
+        "Architected a full-stack movie booking web platform with <strong>React.js, Node.js, Express.js, and MongoDB</strong>, enabling dynamic cinema hall layouts and real-time seat reservation.",
+        "Implemented secure <strong>JSON Web Token (JWT) authentication</strong> with bcrypt password hashing and role-based access control (Admin vs. Customer).",
+        "Engineered atomic database transaction queries and schema indexing in MongoDB, resolving seat-locking concurrency to handle <strong>100+ simultaneous booking requests</strong> without double-booking.",
+        "Developed and validated 20+ RESTful API endpoints with automated <strong>Postman test collections</strong>, ensuring strict contract compliance and error handling."
+      ]
+    }
+  ],
+  "petProjects": [
+    {
+      "id": "yaacatchy-ecommerce-platform",
+      "title": "YAACATCHY – Full-Stack E-Commerce Platform",
+      "desc": "Full-stack commercial e-commerce platform developed for a real-world client, implementing end-to-end shopping and store management.",
+      "bullets": [
+        "Implemented customer authentication, product catalog browsing, cart persistence, checkout, and admin dashboard.",
+        "Integrated frontend, backend services, Supabase database operations, and Razorpay payment workflows.",
+        "Engineered complete customer-to-order workflow with real-time order tracking."
+      ],
+      "tags": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Supabase",
+        "REST APIs",
+        "Razorpay",
+        "Git"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": true
+    },
+    {
+      "id": "ai-resume-analyzer",
+      "title": "AI Resume Analyzer & Job Matcher",
+      "desc": "Web-based NLP platform that evaluates candidate resumes, extracts structured competencies, scores job match compatibility, and suggests career improvements.",
+      "bullets": [
+        "Parses PDF/DOCX resumes and computes semantic similarity against job descriptions using NLP embeddings.",
+        "Provides section-by-section scoring, skill gap identification, and ATS optimization tips.",
+        "Interactive TypeScript and React dashboard with instant exportable analysis reports."
+      ],
+      "tags": [
+        "TypeScript",
+        "NLP",
+        "React",
+        "Python",
+        "Machine Learning",
+        "TailwindCSS"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/AI-Resume-Analyzer-Job-Matcher",
+      "liveUrl": "https://github.com/FelixMathew/AI-Resume-Analyzer-Job-Matcher",
+      "isOpen": true
+    },
+    {
+      "id": "workflow-designer",
+      "title": "Workflow Designer: Graph Simulator",
+      "desc": "Interactive canvas-based workflow builder and execution simulator built with React Flow and Zustand state architecture.",
+      "bullets": [
+        "Visual drag-and-drop canvas for composing branching logic, API nodes, and trigger conditions.",
+        "Real-time workflow simulation with step-by-step state visualization and cycle validation.",
+        "High-performance reactive state management with Zustand and TypeScript."
+      ],
+      "tags": [
+        "TypeScript",
+        "React Flow",
+        "Zustand",
+        "React",
+        "Vite",
+        "TailwindCSS"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/workflow-designer",
+      "liveUrl": "https://workflow-designer-mocha.vercel.app",
+      "isOpen": false
+    },
+    {
+      "id": "bfhl-hierarchy-api",
+      "title": "BFHL Hierarchy API: Graph & Cycle Engine",
+      "desc": "High-throughput Node.js backend system that processes hierarchical node relationships, validates DAG constraints, and computes tree insights.",
+      "bullets": [
+        "Detects cyclic dependencies using depth-first graph traversal algorithms.",
+        "Computes node depths, ancestor paths, and subtree weights via optimized REST endpoints.",
+        "Deployed with interactive frontend testing client on Vercel."
+      ],
+      "tags": [
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "REST API",
+        "Graph Algorithms",
+        "Vercel"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/bfhl-hierarchy-api",
+      "liveUrl": "https://bfhl-hierarchy-api.vercel.app",
+      "isOpen": false
+    },
+    {
+      "id": "goalcast-ai",
+      "title": "GoalCast AI: FIFA World Cup 2026",
+      "desc": "AI-powered football match outcome prediction system for the FIFA World Cup 2026 combining player form analytics, historical stats, and ML models.",
+      "bullets": [
+        "Trained ensemble classification models (XGBoost, Random Forest) on decades of international match telemetry.",
+        "Generates probabilistic win/draw/loss matrices, scoreline simulations, and tournament bracket projections.",
+        "Automated feature engineering tracking Elo ratings, injury impact, and squad depth."
+      ],
+      "tags": [
+        "Python",
+        "XGBoost",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Streamlit"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/goalcast-ai-fifa-2026-prediction-system",
+      "liveUrl": "https://github.com/FelixMathew/goalcast-ai-fifa-2026-prediction-system",
+      "isOpen": false
+    },
+    {
+      "id": "privacy-nlp-tokenizer",
+      "title": "Privacy-Preserving NLP Tokenization",
+      "desc": "Enterprise security pipeline detecting and masking Personally Identifiable Information (PII) across banking, healthcare, and educational datasets.",
+      "bullets": [
+        "Implements Named Entity Recognition (NER) models to locate SSNs, credit cards, medical IDs, and names.",
+        "Generates deterministic, reversible cryptographic tokens ensuring compliance with GDPR and HIPAA.",
+        "High-throughput batch processing architecture capable of sanitizing large text corpora."
+      ],
+      "tags": [
+        "Python",
+        "spaCy",
+        "NLP",
+        "Cryptography",
+        "Data Privacy",
+        "Regex"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/privacy-preserving-nlp-tokenization-system",
+      "liveUrl": "https://github.com/FelixMathew/privacy-preserving-nlp-tokenization-system",
+      "isOpen": false
+    },
+    {
+      "id": "face-emotion-detection",
+      "title": "Face Emotion Detection: Real-Time CNN",
+      "desc": "Computer vision pipeline that detects human emotional states from live camera streams in real time.",
+      "bullets": [
+        "Built Convolutional Neural Network (CNN) trained on facial expression datasets.",
+        "Utilizes OpenCV Haar Cascades for multi-face localization and bounding box tracking.",
+        "Classifies emotions (happy, sad, angry, surprised, neutral) with low latency."
+      ],
+      "tags": [
+        "Python",
+        "OpenCV",
+        "TensorFlow",
+        "Keras",
+        "CNN",
+        "Deep Learning"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/Face-Emotion-detection-main",
+      "liveUrl": "https://github.com/FelixMathew/Face-Emotion-detection-main",
+      "isOpen": false
+    },
+    {
+      "id": "predictive-maintenance",
+      "title": "Smart Predictive Maintenance: IoT Anomaly",
+      "desc": "Industrial IoT telemetry analysis platform detecting mechanical degradation before equipment failure occurs.",
+      "bullets": [
+        "Analyzes sensor time-series streams for temperature, vibration, and pressure anomalies.",
+        "Implements isolation forests and autoencoders for unsupervised outlier detection.",
+        "Provides maintenance alert triggers and estimated Remaining Useful Life (RUL)."
+      ],
+      "tags": [
+        "Python",
+        "Time Series",
+        "Scikit-learn",
+        "IoT Telemetry",
+        "Pandas"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/Smart-Predictive-Maintenance",
+      "liveUrl": "https://github.com/FelixMathew/Smart-Predictive-Maintenance",
+      "isOpen": false
+    },
+    {
+      "id": "heart-failure-master",
+      "title": "Clinical Risk Assessment Engine",
+      "desc": "Statistical modeling and healthcare feature importance evaluation platform for cardiovascular metrics.",
+      "bullets": [
+        "Automated exploratory data analysis (EDA) and clinical correlation matrix computation.",
+        "Feature selection pipelines identifying critical risk factors in patient cohorts.",
+        "Interactive notebook analysis for medical researchers and students."
+      ],
+      "tags": [
+        "Python",
+        "Jupyter",
+        "Seaborn",
+        "Statistical Modeling",
+        "Biomedical ML"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/Heart-failure-predictor-master",
+      "liveUrl": "https://github.com/FelixMathew/Heart-failure-predictor-master",
+      "isOpen": false
+    },
+    {
+      "id": "role-analytics-dashboard",
+      "title": "Role Analytics & Admin Dashboard",
+      "desc": "Responsive administrative web portal for role permissions, user search/filtering, and session telemetry.",
+      "bullets": [
+        "Dynamic filtering, sorting, pagination, and multi-field search across 10,000+ records.",
+        "Middleware logging and client-side performance caching for sub-100ms UI responses.",
+        "Built with modular TypeScript components and strict type safety."
+      ],
+      "tags": [
+        "TypeScript",
+        "React",
+        "REST API",
+        "TailwindCSS",
+        "State Management"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/RA2311028020016",
+      "liveUrl": "https://github.com/FelixMathew/RA2311028020016",
+      "isOpen": false
+    },
+    {
+      "id": "fall-detection-har",
+      "title": "Fall Detection & HAR: Research AI",
+      "desc": "Deep learning model architecture for automated fall identification from ambient surveillance video.",
+      "bullets": [
+        "Spatiotemporal feature extraction using 3D CNNs and recurrent temporal layers.",
+        "High sensitivity on emergency fall sequences with low false alarm rates.",
+        "Research publication paper under peer review for ICNPCV 2026."
+      ],
+      "tags": [
+        "Python",
+        "PyTorch",
+        "Computer Vision",
+        "Deep Learning",
+        "Research"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    },
+    {
+      "id": "deloitte-cyber-sim",
+      "title": "Deloitte Cyber Security Simulation",
+      "desc": "Simulated cybersecurity threat assessment, log triage, and incident response architecture.",
+      "bullets": [
+        "Analyzed network packet captures and authentication logs to identify unauthorized lateral movement.",
+        "Formulated remediation strategy and incident response playbook for enterprise stakeholders.",
+        "Hardened network perimeter policies and IAM role configurations."
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Log Analysis",
+        "Incident Response",
+        "IAM",
+        "Network Defense"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    },
+    {
+      "id": "tata-genai-analytics",
+      "title": "Tata Group GenAI Data Analytics",
+      "desc": "Generative AI-powered exploratory data analysis and executive insight generation framework.",
+      "bullets": [
+        "Leveraged LLM prompt engineering and vector embeddings to extract actionable retail business metrics.",
+        "Automated visualization dashboard synthesis from raw transactional databases.",
+        "Built executive summary briefing generation pipelines."
+      ],
+      "tags": [
+        "GenAI",
+        "Data Analytics",
+        "Prompt Engineering",
+        "Python",
+        "Business Intelligence"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    },
+    {
+      "id": "aws-cloud-cicd",
+      "title": "Cloud Automation & AWS CI/CD",
+      "desc": "Infrastructure-as-Code automation templates and GitHub Actions deployment workflows on AWS.",
+      "bullets": [
+        "Automated multi-stage Docker container builds and automated lint/test verification.",
+        "Configured AWS S3 static hosting, CloudFront CDN caching, and Route 53 DNS records.",
+        "Implemented zero-downtime deployment pipelines with rollback capabilities."
+      ],
+      "tags": [
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "CI/CD",
+        "CloudFront",
+        "S3"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    },
+    {
+      "id": "andropedia-design-sys",
+      "title": "Andropedia Campus Design System",
+      "desc": "Unified branding guidelines, reusable UI component library, and digital event asset engine for SRM-IST.",
+      "bullets": [
+        "Created consistent typographic scales, color tokens, and vector illustration systems.",
+        "Produced 50+ event promotional packages used across campus technical summits.",
+        "Streamlined design-to-development handover workflows."
+      ],
+      "tags": [
+        "Figma",
+        "Visual Design",
+        "Design Systems",
+        "UI/UX",
+        "Asset Pipelines"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    },
+    {
+      "id": "personal-portfolio",
+      "title": "Personal Developer Portfolio & Theme Engine",
+      "desc": "Ultra-fast responsive portfolio website with custom dot grid, night celestial animations, and typography scaling.",
+      "bullets": [
+        "Vanilla HTML5, modern CSS tokens, and zero external runtime dependencies for instant loads.",
+        "Real-time battery status monitoring with navigator.getBattery() API integration.",
+        "Interactive project cards, PDF preview popup modal, and appearance switcher."
+      ],
+      "tags": [
+        "HTML5",
+        "Vanilla CSS",
+        "JavaScript",
+        "Battery API",
+        "Design Tokens"
+      ],
+      "githubUrl": "https://github.com/FelixMathew/my-portfolio",
+      "liveUrl": "https://github.com/FelixMathew/my-portfolio",
+      "isOpen": false
+    },
+    {
+      "id": "github-developer-hub",
+      "title": "Felix Mathew GitHub Developer Hub",
+      "desc": "Centralized open-source developer hub showcasing repositories, commit activity, and software contributions.",
+      "bullets": [
+        "Automated GitHub Actions workflow tracking stats, streak metrics, and language breakdowns.",
+        "Pinned repository showcases and open source contribution telemetry.",
+        "Curated documentation, architecture diagrams, and project roadmaps."
+      ],
+      "tags": [
+        "GitHub Actions",
+        "Markdown",
+        "Open Source",
+        "Git",
+        "Automation"
+      ],
+      "githubUrl": "https://github.com/FelixMathew",
+      "liveUrl": "https://github.com/FelixMathew",
+      "isOpen": false
+    }
+  ],
+  "stats": {
+    "leetcode": {
+      "username": "FelixMathew",
+      "url": "https://leetcode.com/u/FelixMathew/",
+      "solved": "122",
+      "totalQuestions": "3400+",
+      "acceptanceRate": "72.4%",
+      "submissions": "472"
+    },
+    "github": {
+      "username": "FelixMathew",
+      "url": "https://github.com/FelixMathew",
+      "publicRepos": "14",
+      "totalCommits": "1615",
+      "pullRequests": "24",
+      "streakDays": "12"
+    }
+  },
+  "education": {
+    "accordionTitle": "EDUCATION",
+    "timeline": [
+      {
+        "id": "edu-srm",
+        "period": "Jun 2023 – May 2027",
+        "degree": "B.Tech – CSE (Cloud Computing) · CGPA: 8.4 / 10 (Till 6th semester)",
+        "institution": "SRM Institute of Technology"
+      },
+      {
+        "id": "edu-school",
+        "period": "Jun 2022 – Apr 2023",
+        "degree": "Higher Secondary Education (Class XII) · Percentage: 70%",
+        "institution": "St. Joseph Mat. Hr. Sec. School, Chennai (Subjects: PCM + Computer Science)"
+      }
+    ],
+    "personalParagraph": "I taught myself to skate in two days flat, no tricks yet, that's next. I love chess, play matches randomly on chess.com, ELO nothing to brag about, but the game never gets old. I'm on a 750+ day Duolingo streak in Spanish that I broke recently. Cricket is my sport by default, but the 2022 Copa América and my work friends Neil, Alex, Hugo pulled me into soccer, and I've been following it since. I catch F1 races when I can, and I once made a special trip to the F1 Exhibition in Toronto just to see the cars up close."
+  },
+  "skills": [
+    {
+      "category": "Programming & Data",
+      "items": "C++, Python, C, SQL, Data Structures & Algorithms, Object-Oriented Programming"
+    },
+    {
+      "category": "Data Science & Analytics",
+      "items": "Machine Learning, Data Preprocessing, Model Evaluation, Statistical Analysis"
+    },
+    {
+      "category": "Data & Databases",
+      "items": "MySQL, MongoDB, DBMS, REST APIs, Postman"
+    },
+    {
+      "category": "Cloud & Engineering",
+      "items": "AWS, Cloud Deployment, Git, GitHub Actions, CI/CD, Agile"
+    },
+    {
+      "category": "AI/ML",
+      "items": "Machine Learning, NLP, RAG, AI Agents, LangChain, Model Context Protocol (MCP)"
+    },
+    {
+      "category": "Software Development",
+      "items": "Node.js, Express.js, Microservices, JWT Authentication"
+    },
+    {
+      "category": "Frontend",
+      "items": "React.js, Next.js, HTML, CSS, Tailwind CSS"
+    },
+    {
+      "category": "Core CS",
+      "items": "Operating Systems, Computer Networks"
+    }
+  ],
+  "proof": {
+    "certifications": [
+      {
+        "id": "cert-oracle-ds",
+        "name": "Oracle Cloud Infrastructure 2025 Data Science Professional (1Z0-1110-25)",
+        "issuer": "Oracle",
+        "date": "2025",
+        "status": "completed",
+        "url": "https://catalog-education.oracle.com"
+      },
+      {
+        "id": "cert-deloitte-cyber",
+        "name": "Deloitte Australia – Cyber Job Simulation",
+        "issuer": "Deloitte (Forage)",
+        "date": "Completed",
+        "status": "completed",
+        "url": "https://www.forage.com"
+      },
+      {
+        "id": "cert-tata-genai",
+        "name": "Tata Group – GenAI Powered Data Analytics Job Simulation",
+        "issuer": "Tata Group (Forage)",
+        "date": "Completed",
+        "status": "completed",
+        "url": "https://www.forage.com"
+      }
+    ],
+    "courses": [
+      "Cloud Computing Architecture & Distributed Systems",
+      "Design and Analysis of Algorithms (DAA)",
+      "Data Structures and Algorithms (C++ / Java)",
+      "Database Management Systems (DBMS & SQL)",
+      "Operating Systems & Virtualization",
+      "Computer Networks & Protocols",
+      "Machine Learning & Deep Learning",
+      "Natural Language Processing (NLP)",
+      "Web Technology & Full-Stack Development",
+      "Computer Vision & Digital Image Processing",
+      "Object Oriented Programming & System Design",
+      "Network Security & Applied Cryptography",
+      "Compiler Design & Automata Theory",
+      "Microprocessors & Computer Organization",
+      "Data Warehousing & Mining",
+      "Big Data Analytics & Spark",
+      "DevOps & Continuous Integration / Delivery",
+      "Software Engineering & Agile Methodologies",
+      "Containerization & Kubernetes Basics",
+      "Discrete Mathematics & Graph Theory"
+    ],
+    "moments": [
+      {
+        "id": "moment-publication-2026",
+        "year": "2026",
+        "text": "<strong>Publication Under Review:</strong> <em>“DisasterAI: Real-Time Disaster Detection and Risk Assessment using Machine Learning.”</em> Submitted to the International Conference on Natural Language Processing and Computer Vision (ICNPCV 2026)."
+      },
+      {
+        "id": "moment-oracle-cert",
+        "year": "2025",
+        "text": "<strong>Certification:</strong> Completed Oracle Cloud Infrastructure 2025 Data Science Professional (1Z0-1110-25) certification."
+      },
+      {
+        "id": "moment-andropedia",
+        "year": "2023–2025",
+        "text": "<strong>Design Lead | ANDROPEDIA, SRM-IST:</strong> Headed the design team, creating branding and promotional materials for campus events in collaboration with event organizers."
+      },
+      {
+        "id": "moment-leetcode",
+        "year": "2025",
+        "text": "<strong>Competitive Programming:</strong> Actively practicing with a LeetCode rating of 1460, strengthening core Data Structures & Algorithms skills."
+      },
+      {
+        "id": "moment-hackathons",
+        "year": "2024–2025",
+        "text": "<strong>Hackathons & Systems:</strong> Participated in multiple technical hackathons and coding events; built and deployed 3+ full-stack and ML-based systems."
+      }
+    ]
+  },
+  "eventsPeople": [
+    {
+      "id": "event-custom-1791356828833",
+      "title": "Technical Quiz Challenge at Techno Summit ’25",
+      "desc": "I am pleased to share that I secured First Prize in the Proton Pulse",
+      "image": "assets/events/3.png",
+      "alt": "Technical Quiz Challenge at Techno Summit ’25"
+    },
+    {
+      "id": "office-all-staff",
+      "title": "Friends of People Trust (NGO)",
+      "desc": "I had the privilege of developing a website for the Trust, aimed at strengthening their digital presence and improving operational efficiency.",
+      "image": "assets/events/2.png",
+      "alt": "Friends of People Trust (NGO)"
+    },
+    {
+      "id": "stage-finals-hall",
+      "title": "Design Dash at CLOUDCON’25",
+      "desc": "I had the incredible opportunity to plan, organize, and execute a highly engaging poster design competition that brought together creativity and innovation",
+      "image": "assets/events/1.png",
+      "alt": "Design Dash at CLOUDCON’25"
+    }
+  ],
+  "chasing": {
+    "workspaceText": "I’m trying to understand what makes someone truly good at what they do — not just technically skilled, but capable of taking a difficult problem and actually doing something meaningful with it",
+    "workspaceLink": "https://pixel-forge-flame.vercel.app/",
+    "workspaceLabel": "",
+    "accordionTitle": "WHAT I'M CHASING",
+    "photos": [
+      {
+        "id": "chasing-smiling",
+        "title": "Smiling Outdoors",
+        "image": "assets/chasing/photo_1_2026-10-07_12-45-40.jpg",
+        "alt": "Felix smiling outdoors"
+      },
+      {
+        "id": "chasing-apple-store",
+        "title": "Fun with Friends",
+        "image": "assets/chasing/photo_2_2026-10-07_12-45-40.jpg",
+        "alt": "With friends making peace sign"
+      },
+      {
+        "id": "chasing-selfie",
+        "title": "Double Reflection Selfie",
+        "image": "assets/chasing/photo_3_2026-10-07_12-45-40.jpg",
+        "alt": "Felix mirrored reflection"
+      }
+    ],
+    "paragraphs": [
+      "I’m trying to understand what makes someone truly impactful — not just successful, but capable of taking a difficult problem and turning it into something meaningful. The more I learn, build, and experiment, the more I realize that the people I admire most are not trying to do everything. They are <mark>working deeply on problems that actually matter</mark>, learning whatever they need along the way, and building things that create real value.",
+      "Overall, it comes down to one thing I want to build in myself: <mark>Excellence</mark>. Not being perfect, not knowing everything, and not being the smartest person in the room — but constantly raising the standard of what I can do.",
+      "I’m still early in that journey, and there is a lot I don’t know yet. But I don’t want to be afraid of that. I want to keep learning, keep taking on harder problems, and keep putting myself in situations where I have to grow. <mark>Excellence and learning are a lifelong journey</mark>. I want to spend my life becoming better at understanding problems, building useful things, and creating an impact that goes beyond myself. <mark>Will keep learning. Will keep building. Will keep DOING.</mark>"
+    ]
+  },
+  "contact": {
+    "heading": "Got an interesting project?",
+    "subheading": "Have a project, idea, or business problem you’d like to build? I’m available for freelance web development and software projects. For project inquiries, reach out below.",
+    "supportText": "I’m open to internships, entry-level roles, freelance projects, and collaborations where I can build useful software and solve real problems.",
+    "email": "Felixsparrow561@gmail.com",
+    "location": "India",
+    "freelanceUrl": "https://pixel-forge-flame.vercel.app/"
+  }
+}
